@@ -1,0 +1,5 @@
+{
+    "prefix": "/",
+    "consoleBotReadyMessage": "The bot is ready!",
+    "consoleCommandErrorMessage": "There was an error trying to execute that command!"
+}
